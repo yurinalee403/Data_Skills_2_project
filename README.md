@@ -32,13 +32,15 @@ Then you will fit a model to your data and report basic results.  As this is not
   
 You will then spend *no more than 2-3 pages* writing up your project.  You should describe your research question, then discuss the approach you took and the coding involved, including discussing any weaknesses or difficulties encountered.  Finish with a brief discussion of results, and how this could be fleshed out in future research.  The primary purpose of this writeup is to inform me of what I am reading before I look at your code.
 
+The top of your writeup should include the names of all your group members, and everyone's GitHub user IDs.
+
 ### Instructions
 You may work on this project alone, or in [groups of up to three](https://github.blog/2018-03-06-how-to-use-group-assignments-in-github-classroom/).  All groups must be formed *on GitHub classrooms* before any work is done - it is not possible to join a group after.  If you work alone, then at least one of the first three parts above must be of a more advanced nature that exhibits your coding skills.  If you work in a group, then more of the parts must be advanced.  The exact nature of what makes something more advanced will be discussed in class; imagine, for example, the difference between standard ggplot output with default settings, and output that has many elements adjusted to improve the display.  I strongly encourage you to discuss your project with me in advance.
 
 It is required that you use GitHub, and I may use your past commits to understand your thought process for partial credit, and to monitor group participation.  You will not get full credit if your repository does not show multiple commits as you build your project, especially for groups.  Expectations for the scope of the project will be higher for groups than for individuals, and the division of labor will be up to each group.  While I will lean toward giving the same grade to everyone in a group, it is possible that group members will recieve different grades based on commit history.
 
 Your final repository must contain the following: 
-1. Your Python code and commit history
+1. Your Python code and commit history.  Split your code up into multiple files named for the 4 categories above, plus one more for Shiny (app.py).
 2. A folder named "data" that contains the initial, *unmodified* dataframes you download, (unless they are large, in which case they should be hosted on Drive or Dropbox with a link provided), and the final versions of the dataframe(s) you built
 4. A folder named "images" that contains saved .png versions of your static plots
 6. Your writeup in markdown format, named as "README.md"

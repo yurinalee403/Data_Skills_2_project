@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  5 16:05:37 2022
 
-@author: yoon
 """
 pip install spacytextblob
 python -m textblob.download_corpora
